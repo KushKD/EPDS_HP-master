@@ -1,0 +1,577 @@
+
+<Inspectors>
+  
+  <in>
+      <SrNo>1</SrNo>
+      <District>Bilaspur</District>
+     <NameofBlock>Bilaspur Sadar</NameofBlock>
+      <NameofInspector>Ranjeet Singh</NameofInspector>
+     <PersonalMobileNumber>094186-03281</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00631</OfficialMobileNumber>
+      <OfficeAddress>Distt. Controller food civil supply andconsumer affairs chander block near DC office sadar Bilasur- 174001</OfficeAddress>
+  </in>
+  
+  
+  <in>
+      <SrNo>2</SrNo>
+      <District>Bilaspur</District>
+      <NameofBlock>Ghumarwin</NameofBlock>
+       <NameofInspector>Amriti Devi</NameofInspector>
+      <PersonalMobileNumber>098168-82253</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00631</OfficialMobileNumber>
+    <OfficeAddress>inspector office ghumarwin distt. Bilaspur - 174021</OfficeAddress>
+  </in>
+    
+    
+  <in>
+      <SrNo>3</SrNo>
+      <District>Chamba</District>
+      <NameofBlock>Chamba</NameofBlock>
+       <NameofInspector>Ajay Kaundal</NameofInspector>
+      <PersonalMobileNumber>088943-92942</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00633</OfficialMobileNumber>
+    <OfficeAddress>Distt. Controller Food Civil Supplies and consumer affairs Chamba Distt chamba Pin Code -176310</OfficeAddress>
+  </in>
+    
+    
+    
+  <in>
+      <SrNo>4</SrNo>
+      <District>Chamba</District>
+      <NameofBlock>Salooni</NameofBlock>
+       <NameofInspector>Manoj Kumar</NameofInspector>
+      <PersonalMobileNumber>086797-81482</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00634</OfficialMobileNumber>
+    <OfficeAddress>Whole sale godown food civil supply corporation salooni distt. chamba</OfficeAddress>
+  </in>
+    
+    
+    
+  <in>
+      <SrNo>5</SrNo>
+      <District>Chamba</District>
+      <NameofBlock>Bhatiyat at Chowari</NameofBlock>
+       <NameofInspector>Sandeep Bhardwaj</NameofInspector>
+      <PersonalMobileNumber>098164-60690</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00635</OfficialMobileNumber>
+    <OfficeAddress>C/o DFSC Office Chamba Distt Chamba Pin Code -176310</OfficeAddress>
+  </in>
+    
+    
+    
+  <in>
+      <SrNo>6</SrNo>
+      <District>Chamba</District>
+      <NameofBlock>Killar (Pangi)</NameofBlock>
+       <NameofInspector>Surinder Singh-II</NameofInspector>
+      <PersonalMobileNumber>089881-68200</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00636</OfficialMobileNumber>
+    <OfficeAddress>distt.controlar food civil supply and consumar affaires killar at pangi -176323</OfficeAddress>
+  </in>
+    
+    
+    
+  <in>
+      <SrNo>7</SrNo>
+      <District>Hamirpur</District>
+      <NameofBlock>HAMIRPUR</NameofBlock>
+       <NameofInspector>Bachittar Singh</NameofInspector>
+      <PersonalMobileNumber>094598-16337</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00638</OfficialMobileNumber>
+    <OfficeAddress>Distt. Controller Food Civil supplies and consumer Affair Distt Hamirpur Pin code 177001</OfficeAddress>
+  </in>
+    
+    
+    
+  <in>
+      <SrNo>8</SrNo>
+      <District>Hamirpur</District>
+      <NameofBlock>Nadaun</NameofBlock>
+       <NameofInspector>Neena Devi</NameofInspector>
+      <PersonalMobileNumber>088947-61768</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00642</OfficialMobileNumber>
+    <OfficeAddress>inspector office food and supply block nadaun distt. Hamirpur -177033</OfficeAddress>
+  </in>
+    
+    
+    
+  <in>
+      <SrNo>9</SrNo>
+      <District>Hamirpur</District>
+      <NameofBlock>Bijjari at Badsar</NameofBlock>
+       <NameofInspector>Sh. Rajinder Singh</NameofInspector>
+      <PersonalMobileNumber>094184-52454</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00641</OfficialMobileNumber>
+    <OfficeAddress>inspectar food civil supply and consumer affairs Badsar Distt Hamirpur </OfficeAddress>
+  </in>
+    
+    
+    
+  <in>
+      <SrNo>10</SrNo>
+      <District>Kangra</District>
+      <NameofBlock>Baijnath</NameofBlock>
+       <NameofInspector>Meera Bai</NameofInspector>
+      <PersonalMobileNumber>094182-13884</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00643</OfficialMobileNumber>
+    <OfficeAddress>Inspector Food and civil supplies and consumer Affairs Tehsil- Bajnath Distt Kangra Pin Code -176061</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>11</SrNo>
+      <District>Kangra</District>
+      <NameofBlock>Bhawarna</NameofBlock>
+       <NameofInspector>Karam Chand Puri</NameofInspector>
+      <PersonalMobileNumber>096250-48848</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00644</OfficialMobileNumber>
+    <OfficeAddress>block office bhawarna palampur distt. Kangra</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>12</SrNo>
+      <District>Kangra</District>
+      <NameofBlock>Panchrukhi</NameofBlock>
+       <NameofInspector>Alok Walia</NameofInspector>
+      <PersonalMobileNumber>094181-55852</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00645</OfficialMobileNumber>
+    <OfficeAddress>alok walia inspector food and supply near post palampur -176061</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>13</SrNo>
+      <District>Kangra</District>
+      <NameofBlock>N/Surian</NameofBlock>
+       <NameofInspector>Madan Lal</NameofInspector>
+      <PersonalMobileNumber>094180-53748</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00646</OfficialMobileNumber>
+    <OfficeAddress>hool sale godown hp state civil supply corporation nagrota surian distt. Kangra - 176027</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>14</SrNo>
+      <District>Kangra</District>
+      <NameofBlock>Kangra</NameofBlock>
+       <NameofInspector>Suresh Kumar</NameofInspector>
+      <PersonalMobileNumber>98058-73373</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00649</OfficialMobileNumber>
+    <OfficeAddress>Inspector food civil supplies and Consumer Affairs Mini Secretariat complex Kangra Pin code 176001</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>15</SrNo>
+      <District>Kangra</District>
+      <NameofBlock>Nurpur</NameofBlock>
+       <NameofInspector>sandeep saklani</NameofInspector>
+      <PersonalMobileNumber>094181-73762</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00640</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires nurpur Distt. Kangra - 176202</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>16</SrNo>
+      <District>Kangra</District>
+      <NameofBlock>Pragpur</NameofBlock>
+       <NameofInspector>Saurav Vashisith</NameofInspector>
+      <PersonalMobileNumber>098163-75160</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00648</OfficialMobileNumber>
+    <OfficeAddress>Inspector food civil supplies and Consumer affairs at Pragpur Distt. Kangra. - Pin Code-177107</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>17</SrNo>
+      <District>Kangra</District>
+      <NameofBlock>Fatehpur</NameofBlock>
+       <NameofInspector>Mohinder Singh Dhiman</NameofInspector>
+      <PersonalMobileNumber>094592-59808</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00651</OfficialMobileNumber>
+    <OfficeAddress>C/o CS Fatehpur Near Block Office Tehsil Fatehpur Distt - Kangra Pin Code -176053 </OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>18</SrNo>
+      <District>Kinnaur</District>
+      <NameofBlock>Kalpa DFSC R/ Peo</NameofBlock>
+       <NameofInspector>Vinod Kapil</NameofInspector>
+      <PersonalMobileNumber>094590-37839</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00655</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires kalpa R/Peo Distt Kinnaur - 172107</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>19</SrNo>
+      <District>Kinnaur</District>
+      <NameofBlock>Nichar SDM B/Nagar</NameofBlock>
+       <NameofInspector>Anish Thakur</NameofInspector>
+      <PersonalMobileNumber>094183-05430</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00656</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires Nichar at Bhava nagar Distt.-Kinnaur</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>20</SrNo>
+      <District>Kullu</District>
+      <NameofBlock>Banjar</NameofBlock>
+       <NameofInspector>Dabe Ram</NameofInspector>
+      <PersonalMobileNumber>094188-17623</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00661</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires Banjar Distt. Kullu.- 175123</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>21</SrNo>
+      <District>Kullu</District>
+      <NameofBlock>Kullu</NameofBlock>
+       <NameofInspector>Suresh Kumar</NameofInspector>
+      <PersonalMobileNumber>094189-79158</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00665</OfficialMobileNumber>
+    <OfficeAddress>dfsc office kullu Distt.-Kullu - 175101</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>22</SrNo>
+      <District>Kullu</District>
+      <NameofBlock>Nirmand</NameofBlock>
+       <NameofInspector>Ram Singh</NameofInspector>
+      <PersonalMobileNumber>094181-29661</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00660</OfficialMobileNumber>
+    <OfficeAddress>Inspector food civil supply and consumer affaires Nirmand Distt. Kullu. - 172023</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>23</SrNo>
+      <District>Lahaul and Spiti </District>
+      <NameofBlock>Keylong/Udaipur</NameofBlock>
+       <NameofInspector>Naveen Kumar</NameofInspector>
+      <PersonalMobileNumber>089882-34590</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00662</OfficialMobileNumber>
+    <OfficeAddress>Distt Controller Food civil Supplies and Consumer Affair Lahual and Spiti at Kelyong Pin Code-175132</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>24</SrNo>
+      <District>Mandi</District>
+      <NameofBlock>Balh</NameofBlock>
+       <NameofInspector>Manoj Kumar</NameofInspector>
+      <PersonalMobileNumber>098824-19249</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00664</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires BDO balh Distt Mandi </OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>25</SrNo>
+      <District>Mandi</District>
+      <NameofBlock>Gohar</NameofBlock>
+       <NameofInspector>Lekh Ram</NameofInspector>
+      <PersonalMobileNumber>094590-47922</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00663</OfficialMobileNumber>
+    <OfficeAddress>Inspector food Civi Supplies and Consumer Affair Gohar at Chail Chowk Pin Code -</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>26</SrNo>
+      <District>Mandi</District>
+      <NameofBlock>Chountra</NameofBlock>
+       <NameofInspector>Manjeet Singh</NameofInspector>
+      <PersonalMobileNumber>086794-12423</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00653</OfficialMobileNumber>
+    <OfficeAddress>Inspector Food and civil supplies and consumer affairs choutra at joginder Nagar Distt Mandi Pin Code-</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>27</SrNo>
+      <District>Mandi</District>
+      <NameofBlock>S/Nagar</NameofBlock>
+       <NameofInspector>Sunit Bala</NameofInspector>
+      <PersonalMobileNumber>094181-82252</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00667</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires chogan Sundar nagar Distt Mandi -</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>28</SrNo>
+      <District>Mandi</District>
+      <NameofBlock>Mandi Sadar</NameofBlock>
+       <NameofInspector>Shiv Ram</NameofInspector>
+      <PersonalMobileNumber>098170-92668</PersonalMobileNumber>
+      <OfficialMobileNumber>-</OfficialMobileNumber>
+    <OfficeAddress>Distt Controller Food Civil Supplies and Consumer Affairs Pin Code -175001</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>29</SrNo>
+      <District>Mandi</District>
+      <NameofBlock>Sarkaghat/ Gopalpur</NameofBlock>
+       <NameofInspector>Pankaj Sharma</NameofInspector>
+      <PersonalMobileNumber>094181-82651</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00668</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires gopalpur at sarkaghat Distt.-Mandi - 175024</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>30</SrNo>
+      <District>Sirmour</District>
+      <NameofBlock>Nahan</NameofBlock>
+       <NameofInspector>Meena Chauhan</NameofInspector>
+      <PersonalMobileNumber>097365-05145</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00677</OfficialMobileNumber>
+    <OfficeAddress>distt.controlar food civil supply and consumar affaires Nahan Distt. Sirmaur. - 173001</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>31</SrNo>
+      <District>Sirmour</District>
+      <NameofBlock>Pachhad at Sarahan</NameofBlock>
+       <NameofInspector>Meena thakur</NameofInspector>
+      <PersonalMobileNumber>94188-18258</PersonalMobileNumber>
+      <OfficialMobileNumber>null</OfficialMobileNumber>
+    <OfficeAddress>hool sale godown sarahan Distt.-Sirmour</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>32</SrNo>
+      <District>Sirmour</District>
+      <NameofBlock>Paonta Sahib</NameofBlock>
+       <NameofInspector>Shyam Bhatia</NameofInspector>
+      <PersonalMobileNumber>094591-76920</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00678</OfficialMobileNumber>
+    <OfficeAddress>Inspector food and civil and supplies at Ponta Sahib Pin Code- 173025</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>33</SrNo>
+      <District>Sirmour</District>
+      <NameofBlock>Sangrah</NameofBlock>
+       <NameofInspector>Taj Mohamad</NameofInspector>
+      <PersonalMobileNumber>094185-58286</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00679</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires Sangrah Distt. Sirmaur - 173023</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>34</SrNo>
+      <District>Sirmour</District>
+      <NameofBlock>Rajgarh</NameofBlock>
+       <NameofInspector>Arun Kumar</NameofInspector>
+      <PersonalMobileNumber>094595-86770</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00654</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires rajgarh Distt. Sirmour- 173101 </OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>35</SrNo>
+      <District>Sirmour</District>
+      <NameofBlock>Shillai</NameofBlock>
+       <NameofInspector>Chaman Lal</NameofInspector>
+      <PersonalMobileNumber>094185-08192</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00680</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires Shillai Distt. Sirmour - 173027</OfficeAddress>
+  </in>
+
+
+
+  <in>
+    <SrNo>36</SrNo>
+      <District>Solan</District>
+      <NameofBlock>Kandaghat</NameofBlock>
+       <NameofInspector>Grish Chand</NameofInspector>
+      <PersonalMobileNumber>9459091306</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00681</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires Kandaghat mini sectrate billding room no.208 Distt. Solan - 173215</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>37</SrNo>
+      <District>Solan</District>
+      <NameofBlock>Solan</NameofBlock>
+       <NameofInspector>Sandeep Kaundal</NameofInspector>
+      <PersonalMobileNumber>094186-44767</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00685</OfficialMobileNumber>
+    <OfficeAddress>distt. Controlar food civil supply and consumer affaires Solan Distt. Solan - 173212 </OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>38</SrNo>
+      <District>Una</District>
+      <NameofBlock>Una</NameofBlock>
+       <NameofInspector>Rajni Kalia</NameofInspector>
+      <PersonalMobileNumber>094591-15939</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00686</OfficialMobileNumber>
+    <OfficeAddress>distt. Controlar food civil supply and consumer affaires Una Distt. Una - 174303</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>39</SrNo>
+      <District>Una</District>
+      <NameofBlock>Amb</NameofBlock>
+       <NameofInspector>Bhupinder Adhikari</NameofInspector>
+      <PersonalMobileNumber>094188-23606</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00687</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires Amb Distt. Una. </OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>40</SrNo>
+      <District>Una</District>
+      <NameofBlock>Bangana</NameofBlock>
+       <NameofInspector>Surinder Kumar</NameofInspector>
+      <PersonalMobileNumber>098164-31183</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00689</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires Bangana near gas agency nadaun road bangana Distt.-Una </OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>41</SrNo>
+      <District>Shimla</District>
+      <NameofBlock>Sunni</NameofBlock>
+       <NameofInspector>Sunil Goonta</NameofInspector>
+      <PersonalMobileNumber>080915-00048</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00670</OfficialMobileNumber>
+    <OfficeAddress>sunni tehsil union office Distt .Shimla -171301</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>42</SrNo>
+      <District>Shimla</District>
+      <NameofBlock>Theog</NameofBlock>
+       <NameofInspector>Anita Thakur</NameofInspector>
+      <PersonalMobileNumber>094183-52547</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00671</OfficialMobileNumber>
+    <OfficeAddress>Inspector Grade-1 Food civil supplies and Consumer Affairs Theog Pin code-171201</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>43</SrNo>
+      <District>Shimla</District>
+      <NameofBlock>Mashobra</NameofBlock>
+       <NameofInspector>Ranjna Sood</NameofInspector>
+      <PersonalMobileNumber>094189-62971</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00672</OfficialMobileNumber>
+    <OfficeAddress>Directorate Food Civil Supplies and Consumer Affairs Shimla-9 Pin Code-171009</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>44</SrNo>
+      <District>Shimla</District>
+      <NameofBlock>Rampur</NameofBlock>
+       <NameofInspector>Dhanvir Singh</NameofInspector>
+      <PersonalMobileNumber>094186-94276</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00676</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires Rampur Distt. Shimla.</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>45</SrNo>
+      <District>Shimla</District>
+      <NameofBlock>Chopal</NameofBlock>
+       <NameofInspector>Kamal Kant</NameofInspector>
+      <PersonalMobileNumber>094592-45888</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00674</OfficialMobileNumber>
+    <OfficeAddress>The Inspector Grade-I Food Civil supplies and consumer Affairs VPO. Chopal Tehsil Chaupal Distt Shimla-171211</OfficeAddress>\
+  </in>
+
+
+
+  <in>
+      <SrNo>46</SrNo>
+      <District>Shimla</District>
+      <NameofBlock>Rohru</NameofBlock>
+       <NameofInspector>Lily Thakur</NameofInspector>
+      <PersonalMobileNumber>094184-00825</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00675</OfficialMobileNumber>
+    <OfficeAddress>inspector food civil supply and consumer affaires rohru near pol. Tec . Collage Distt. Shimla - 171207</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>47</SrNo>
+      <District>Shimla</District>
+      <NameofBlock>Shimla Urban</NameofBlock>
+       <NameofInspector>arvind padam</NameofInspector>
+      <PersonalMobileNumber>098167-12626</PersonalMobileNumber>
+      <OfficialMobileNumber>089882-00673</OfficialMobileNumber>
+    <OfficeAddress>Distt. Controlar food civil supply and consumer affaires Shimla Distt. Shimla.</OfficeAddress>
+  </in>
+
+
+
+  <in>
+      <SrNo>48</SrNo>
+      <District>Shimla</District>
+      <NameofBlock>HQ</NameofBlock>
+       <NameofInspector>Parveena</NameofInspector>
+      <PersonalMobileNumber>9459974510</PersonalMobileNumber>
+      <OfficialMobileNumber>null</OfficialMobileNumber>
+    <OfficeAddress>Directorate Food Civil Supplies and Consumer Affairs Shimla-9 Pin Code-171009</OfficeAddress>
+  </in>
+
+    
+</Inspectors>

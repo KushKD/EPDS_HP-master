@@ -1,0 +1,123 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_stream"
+    android:background="#DCDCDCDC"
+    android:fadingEdge="none" >
+
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    tools:context="in.epdshp.co.epds_hp.DFSC_Data_Detals">
+
+    
+    <TextView
+        android:id="@+id/dfsc_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:typeface="sans"
+        android:layout_margin="5dp"
+        android:textSize="@dimen/abc_text_size_medium_material"
+        android:textStyle="bold"
+        android:textColor="@color/material_blue_grey_800">
+        
+    </TextView>
+
+    <TextView
+        android:id="@+id/dfsc_tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:typeface="sans"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/material_blue_grey_800">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/dfsc_tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:typeface="sans"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/material_blue_grey_800">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/dfsc_tv4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:typeface="sans"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/material_blue_grey_800">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/dfsc_tv5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:typeface="sans"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/material_blue_grey_800">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/dfsc_tv6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:typeface="sans"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/material_blue_grey_800">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/dfsc_tv7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:typeface="sans"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        android:textColor="@color/material_blue_grey_800">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/dfsc_tv8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:typeface="sans"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/material_blue_grey_800">
+
+    </TextView>
+
+   
+
+   
+
+
+</LinearLayout>
+</ScrollView>

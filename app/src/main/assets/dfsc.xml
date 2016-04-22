@@ -1,0 +1,136 @@
+<DFSC>
+
+	<dfscdata>
+		<sno>1</sno>
+		<district>Shimla</district>
+		<address>Distt controller food ,civil supplies and consumer affairs shimla 171001</address>
+		<landline>0177-2657022</landline>
+		<faxnumber>0177-2657022</faxnumber>
+		<mobileno>8988200612</mobileno>
+		<icon>snowing</icon>
+		<emailid>dfsc-shi@hp.gov.in</emailid>
+	</dfscdata>
+
+    <dfscdata>
+    <sno>2</sno>
+    <district>Mandi</district>
+    <address>Distt controller food ,civil supplies and consumer affairs mandi jail road 175001</address>
+    <landline>01905-222197</landline>
+    <faxnumber>01905-224467</faxnumber>
+    <mobileno>8988200613</mobileno>
+    <icon>snowing</icon>
+    <emailid>dfsc-man@hp.gov.in</emailid>
+</dfscdata>
+
+    <dfscdata>
+        <sno>3</sno>
+        <district>Kinnaur</district>
+        <address>Distt controller food ,civil supplies and consumer affairs kinnaur at reckong peo 172107</address>
+        <landline>01786-222207</landline>
+        <faxnumber>01786-222207</faxnumber>
+        <mobileno>8988200614</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-kin@hp.gov.in</emailid>
+    </dfscdata>
+
+    <dfscdata>
+        <sno>4</sno>
+        <district>Chamba</district>
+        <address>Distt controller food ,civil supplies and consumer affairs Chamba 1763310</address>
+        <landline>01899-222401</landline>
+        <faxnumber>01899-222238</faxnumber>
+        <mobileno>8988200617</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-cha@hp.gov.in</emailid>
+    </dfscdata>
+
+    <dfscdata>
+    <sno>5</sno>
+    <district>Sirmour</district>
+    <address>Distt controller food ,civil supplies and consumer affairs Sirmour nahan 173001</address>
+    <landline>01702-222558</landline>
+    <faxnumber>01702-222558</faxnumber>
+    <mobileno>8988200620</mobileno>
+    <icon>snowing</icon>
+    <emailid>dfsc-sir@hp.gov.in</emailid>
+</dfscdata>
+
+    <dfscdata>
+        <sno>6</sno>
+        <district>Kullu</district>
+        <address>Distt controller food ,civil supplies and consumer affairs mini secretariat dhalpur, Distt Kullu 175101</address>
+        <landline>01902-222535</landline>
+        <faxnumber>01902-222535</faxnumber>
+        <mobileno>8988200619</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-kul@hp.gov.in</emailid>
+    </dfscdata>
+
+    <dfscdata>
+        <sno>7</sno>
+        <district>Bilaspur</district>
+        <address>Distt controller food ,civil supplies and consumer affairs Bilaspur 174001</address>
+        <landline>01902-222535</landline>
+        <faxnumber>01978-222349</faxnumber>
+        <mobileno>8988200619</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-bil@hp.gov.in</emailid>
+    </dfscdata>
+
+    <dfscdata>
+        <sno>8</sno>
+        <district>Kangra</district>
+        <address>Distt controller food ,civil supplies and consumer affairs kangra at Dharamshala 176215 </address>
+        <landline>01892-222877</landline>
+        <faxnumber>01892-222877</faxnumber>
+        <mobileno>8988200618</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-kan@hp.gov.in</emailid>
+    </dfscdata>
+
+    <dfscdata>
+        <sno>9</sno>
+        <district>Solan</district>
+        <address>Distt controller food ,civil supplies and consumer affairs kangra at Solan Pin Code- 173212</address>
+        <landline>01792-224114</landline>
+        <faxnumber>01792-224114</faxnumber>
+        <mobileno>8988200611</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-sol@hp.gov.in</emailid>
+    </dfscdata>
+
+
+    <dfscdata>
+        <sno>10</sno>
+        <district>Una</district>
+        <address> Distt controller food ,civil supplies and consumer affairs Una, Near D.C. Office Complex PIN code 174303</address>
+        <landline>01975-226016</landline>
+        <faxnumber>01975-226016</faxnumber>
+        <mobileno>8988200611</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-una@hp.gov.inn</emailid>
+    </dfscdata>
+
+    <dfscdata>
+        <sno>11</sno>
+        <district>Hamirpur</district>
+        <address>Distt controller food ,civil supplies and consumer affairs Near D.C. Office Hamirpur Pin Code- 171001</address>
+        <landline>01972-222335</landline>
+        <faxnumber>not available</faxnumber>
+        <mobileno>8988200622</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-ham@hp.gov.in</emailid>
+    </dfscdata>
+
+    <dfscdata>
+        <sno>12</sno>
+        <district>Lahaul and Spiti</district>
+        <address>Distt controller food ,civil supplies and consumer affairs Lahaul Spiti at Keylong Pin Code- 175132</address>
+        <landline>01900-222229</landline>
+        <faxnumber>01900-222268</faxnumber>
+        <mobileno>8988200621</mobileno>
+        <icon>snowing</icon>
+        <emailid>dfsc-lah@hp.gov.in</emailid>
+    </dfscdata>
+
+</DFSC>
